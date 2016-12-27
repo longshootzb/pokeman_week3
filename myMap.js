@@ -1,5 +1,5 @@
 var map_manager={
-  "map"=null
+  "map"=null,
   "map_items":[]
             
 }
